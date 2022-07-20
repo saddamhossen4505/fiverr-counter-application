@@ -1,0 +1,15 @@
+
+/* fiverr part start here */
+.fiverr .my-3 {
+    flex: 1;
+}
+.fiverr {
+    gap: 10px;
+}
+
+.counter h1{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 999;
+}
+/* fiverr part ends here */
